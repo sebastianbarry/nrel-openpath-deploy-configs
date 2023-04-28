@@ -36,6 +36,7 @@
       "trip-labels": "MULTILABEL"
     },
     "display_config": {
+        "starup_page": "metrics",
         "use_imperial": false
     },
     "profile_controls": {
