@@ -24,6 +24,7 @@
         }
     },
     "display_config": {
+        "startup_page": "metrics",  
         "use_imperial": false
     },
     "profile_controls": {
